@@ -1,4 +1,4 @@
-# Olá seja bem vindo! Eu me chamo Gilmar Oliveira
+# Olá, seja bem vindo! Eu me chamo Gilmar Oliveira
 <div>
   <a href="https://github.com/GilmardOliveira">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GilmardOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
