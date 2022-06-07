@@ -13,8 +13,8 @@
   <img align="center" alt="Gilmar-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Gilmar-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gilmar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--<img align="right" alt="Gilmar-pic" height="150" style="border-radius:50px;"     
-       src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+  <img align="right" alt="Gilmar-pic" height="150" style="border-radius:50px;"     
+       src="https://cdn.discordapp.com/attachments/983524552841789500/983532984894382151/758X.gif">
 </div>
   
   ##
