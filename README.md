@@ -44,4 +44,5 @@
 
 ##
 
-![Snake animation](https://github.com/GilmardOliveira/GilmardOliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/GilmardOliveira/GilmardOliveira/output/github-contribution-grid-snake.svg)
+
