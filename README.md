@@ -1,4 +1,5 @@
 👋 Olá! Eu sou Gilmar Oliveira
+
 🖥️ Infraestrutura de TI | 🌐 Redes | 🔐 Cybersecurity
 
 Sou profissional de TI e utilizo este GitHub para documentar minha evolução, estudos, laboratórios e projetos práticos relacionados à infraestrutura, redes, servidores e segurança da informação.
@@ -35,17 +36,18 @@ Atualmente utilizo ambientes virtualizados para praticar conceitos de infraestru
 
 Entre os temas que estou estudando:
 
-Active Directory
-DNS e DHCP
-VLANs
-TCP/IP
-Switching e Routing
-Windows Server
-Linux
-Virtualização
-Segurança de redes
-Hardening
-Automação com Python
+- 🏢 Active Directory
+- 🌐 DNS e DHCP
+- 🔀 VLANs
+- 🌐 TCP/IP
+- 🔀 Switching e Routing
+- 🪟 Windows Server
+- 🐧 Linux
+- 💻 Virtualização
+- 🔐 Segurança de redes
+- 🛡️ Hardening
+- 🐍 Automação com Python
+
 📚 Atualmente estudando
 🌐 Redes
 Fundamentos de redes
